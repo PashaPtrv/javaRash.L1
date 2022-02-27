@@ -14,7 +14,7 @@ public class Main {
             System.out.println("Когда я вырасту, то хочу быть паровым экскаватором!");
         }
         //Код ниже раскоментируем позже.
-        //System.out.println("Happy New Year");
+        System.out.println("Happy New Year");
     }
 }
 
